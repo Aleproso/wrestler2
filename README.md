@@ -1,3 +1,8 @@
-# wrestler2
+# py-intro-image-battle-demo
 
-This is wrestler1
+## TODOs
+
+* [x] storing of votes
+* [x] showing the leader board
+* [ ] showing random images from the internet
+* [ ] pretty css
